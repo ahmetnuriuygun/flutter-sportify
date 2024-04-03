@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956714113383",
+    "project_id": "sportify-flutter-bc070",
+    "storage_bucket": "sportify-flutter-bc070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956714113383:android:e98514709d9fcca14e77c2",
+        "android_client_info": {
+          "package_name": "com.example.ahmet_uygun_eindproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQnRXpoGAi2nBjqUNbbRFgKw0KMadSIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
